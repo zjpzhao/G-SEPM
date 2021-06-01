@@ -1,5 +1,5 @@
 # G-SEPM
-
+![](https://zenodo.org/badge/356287152.svg)
 We run G-SEPM on Tesla P40 platforms.   
 The GPU driver is 418.87.00.  
 The NVIDIA Toolkit is CUDA 8.0.61  
